@@ -17,6 +17,7 @@ import WebfontDownload from 'vite-plugin-webfont-dl'
 import VueRouter from 'unplugin-vue-router/vite'
 import { VueRouterAutoImports } from 'unplugin-vue-router'
 import { NaiveUiResolver } from 'unplugin-vue-components/resolvers'
+import { setup } from '@css-render/vue3-ssr'
 
 export default defineConfig({
   resolve: {
@@ -163,10 +164,21 @@ export default defineConfig({
     onFinished() {
       generateSitemap()
     },
+    async onBeforePageRender(_, __, appCtx) {
+      const { collect } = setup(appCtx.app)
+      ;(appCtx as any).__collectStyle = collect
+      return undefined
+    },
+    async onPageRendered(_, renderedHTML, appCtx) {
+      return renderedHTML.replace(
+        /<\/head>/,
+        `${(appCtx as any).__collectStyle()}</head>`,
+      )
+    },
   },
 
   ssr: {
     // TODO: workaround until they support native ESM
-    noExternal: ['workbox-window', /vue-i18n/],
+    noExternal: ['workbox-window', /vue-i18n/, 'naive-ui', 'vueuc', 'date-fns'],
   },
 })
