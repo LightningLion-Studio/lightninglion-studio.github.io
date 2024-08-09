@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 14.x
       - run: node -v
-      - run: pnpm install
+      - run: npm i -g pnpm && pnpm install
       - run: pnpm run build
       - name: Deploy # 部署
         uses: JamesIves/github-pages-deploy-action@v4.3.3
