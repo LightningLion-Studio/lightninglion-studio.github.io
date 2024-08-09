@@ -1,4 +1,5 @@
 import path from 'node:path'
+import { argv } from 'node:process'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
 import generateSitemap from 'vite-ssg-sitemap'
@@ -19,12 +20,16 @@ import { VueRouterAutoImports } from 'unplugin-vue-router'
 import { NaiveUiResolver } from 'unplugin-vue-components/resolvers'
 import { setup } from '@css-render/vue3-ssr'
 
+const base = argv.find(arg => arg.startsWith('--base'))?.split('=')[1] || '/'
+
 export default defineConfig({
   resolve: {
     alias: {
       '~/': `${path.resolve(__dirname, 'src')}/`,
     },
   },
+
+  base,
 
   plugins: [
     VueMacros({
