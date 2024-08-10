@@ -8,7 +8,7 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-qGENpALL.js"
+    "/assets/virtual_pwa-register-DVlo19yW.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -386,37 +386,220 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/assets/browser-logo.jpeg": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/favicon.png": [
-    "/assets/Default-DfN2-suY.js",
+    "/assets/Default-4mydb1zv.js",
     "/assets/favicon-C5idZDyM.png"
   ],
-  "src/components/GradientBackground.vue": [
-    "/assets/index-BnxG6gul.js",
+  "src/assets/喵哩喵哩.png": [
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/悦音音乐.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上B站.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上小助手.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上小说.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上樱花.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上资讯.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/assets/腕上音乐.png": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/components/AppInfoFooter.vue?vue&type=script&setup=true&lang.tsx": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/components/BrandItem.vue?vue&type=script&setup=true&lang.tsx": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/components/FeatureSection.vue?vue&type=script&setup=true&lang.tsx": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
+  ],
+  "src/components/GradientBackground.vue": [
+    "/assets/index--51o1qH7.js",
+    "/assets/index-Lw95F0Gi.css",
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue?vue&type=style&index=0&scoped=52cc8c2d&lang.less": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/composables/dark.ts": [],
   "src/layouts/Default.vue": [
-    "/assets/Default-DfN2-suY.js",
+    "/assets/Default-4mydb1zv.js",
     "/assets/favicon-C5idZDyM.png"
   ],
   "src/main.ts": [],
@@ -425,14 +608,30 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/index.vue": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BnxG6gul.js",
+    "/assets/index--51o1qH7.js",
     "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/assets/腕上B站-BPXWU5U8.png",
+    "/assets/腕上音乐-BUdLHeyu.png",
+    "/assets/腕上小说-C1jPemUg.png",
+    "/assets/腕上小助手-_EahfyFe.png",
+    "/assets/腕上资讯-Cd8ysrMz.png",
+    "/assets/腕上樱花-CJKjZ296.png",
+    "/assets/browser-logo-oWCqS9t5.jpeg",
+    "/assets/悦音音乐-DW4_tydG.png",
+    "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/styles/main.css": [],
   "virtual:vue-router/auto-routes": []
