@@ -80,7 +80,7 @@ const musicFeatures = [
                       <div>如果下载按钮不可用，请点此联系客服</div>
                     </div>
                   </div>
-                  <div ml2 mt2 flex gap3 font-size-3 op-30>
+                  <div ml2 mt2 flex flex-wrap gap-x3 font-size-3 op-30>
                     <span>开发者：闪电狮</span>
                     <span>版本号：0.0.0</span>
                     <span>发布时间：{{ new Date().toLocaleDateString() }}</span>
@@ -134,7 +134,7 @@ const musicFeatures = [
                         <div>如果下载按钮不可用，请点此联系客服</div>
                       </div>
                     </div>
-                    <div ml2 flex gap3 font-size-3 op-30>
+                    <div ml2 flex flex-wrap gap-x3 font-size-3 op-30>
                       <span>开发者：闪电狮</span>
                       <span>版本号：0.0.0</span>
                       <span>发布时间：{{ new Date().toLocaleDateString() }}</span>
