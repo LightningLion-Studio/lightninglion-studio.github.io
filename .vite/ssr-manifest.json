@@ -8,7 +8,7 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-CH8ekBev.js"
+    "/assets/virtual_pwa-register-qGENpALL.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -386,37 +386,37 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/assets/browser-logo.jpeg": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/assets/favicon.png": [
-    "/assets/Default-BMEnnQPd.js",
+    "/assets/Default-DfN2-suY.js",
     "/assets/favicon-C5idZDyM.png"
   ],
   "src/components/GradientBackground.vue": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue?vue&type=style&index=0&scoped=52cc8c2d&lang.less": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/composables/dark.ts": [],
   "src/layouts/Default.vue": [
-    "/assets/Default-BMEnnQPd.js",
+    "/assets/Default-DfN2-suY.js",
     "/assets/favicon-C5idZDyM.png"
   ],
   "src/main.ts": [],
@@ -425,12 +425,12 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/index.vue": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-bDOG7WzU.js",
+    "/assets/index-BnxG6gul.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/browser-logo-oWCqS9t5.jpeg"
   ],
