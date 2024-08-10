@@ -2,70 +2,70 @@
   "\u0000/home/runner/work/watchrss.cn/watchrss.cn/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [
-    "/assets/_plugin-vue_export-helper-DlAUqK2U.js"
+    "/watchrss.cn/assets/_plugin-vue_export-helper-DlAUqK2U.js"
   ],
   "\u0000virtual:generated-layouts": [],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-CH8ekBev.js"
+    "/watchrss.cn/assets/virtual_pwa-register-DErCA3kI.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
   "index.html": [],
   "locales/ar.yml": [
-    "/assets/ar-HvujSz0t.js"
+    "/watchrss.cn/assets/ar-HvujSz0t.js"
   ],
   "locales/de.yml": [
-    "/assets/de-tIfILiOM.js"
+    "/watchrss.cn/assets/de-tIfILiOM.js"
   ],
   "locales/en.yml": [
-    "/assets/en-uqoOIB2y.js"
+    "/watchrss.cn/assets/en-uqoOIB2y.js"
   ],
   "locales/es.yml": [
-    "/assets/es-DCBmW4A7.js"
+    "/watchrss.cn/assets/es-DCBmW4A7.js"
   ],
   "locales/fr.yml": [
-    "/assets/fr-C-cySWgT.js"
+    "/watchrss.cn/assets/fr-C-cySWgT.js"
   ],
   "locales/id.yml": [
-    "/assets/id-Cdl9masJ.js"
+    "/watchrss.cn/assets/id-Cdl9masJ.js"
   ],
   "locales/it.yml": [
-    "/assets/it-CZF_x55d.js"
+    "/watchrss.cn/assets/it-CZF_x55d.js"
   ],
   "locales/ja.yml": [
-    "/assets/ja-bk9vkbha.js"
+    "/watchrss.cn/assets/ja-bk9vkbha.js"
   ],
   "locales/ka.yml": [
-    "/assets/ka-DrXH8DM7.js"
+    "/watchrss.cn/assets/ka-DrXH8DM7.js"
   ],
   "locales/ko.yml": [
-    "/assets/ko-D1Wq3H7u.js"
+    "/watchrss.cn/assets/ko-D1Wq3H7u.js"
   ],
   "locales/pl.yml": [
-    "/assets/pl-x_vaV0QH.js"
+    "/watchrss.cn/assets/pl-x_vaV0QH.js"
   ],
   "locales/pt-BR.yml": [
-    "/assets/pt-BR-CJ3Aq30r.js"
+    "/watchrss.cn/assets/pt-BR-CJ3Aq30r.js"
   ],
   "locales/ru.yml": [
-    "/assets/ru-BQt2BLfU.js"
+    "/watchrss.cn/assets/ru-BQt2BLfU.js"
   ],
   "locales/tr.yml": [
-    "/assets/tr-CMH1HB1g.js"
+    "/watchrss.cn/assets/tr-CMH1HB1g.js"
   ],
   "locales/uk.yml": [
-    "/assets/uk-PdFIL57p.js"
+    "/watchrss.cn/assets/uk-PdFIL57p.js"
   ],
   "locales/uz.yml": [
-    "/assets/uz-D9sR80nb.js"
+    "/watchrss.cn/assets/uz-D9sR80nb.js"
   ],
   "locales/vi.yml": [
-    "/assets/vi-BsN4yQMQ.js"
+    "/watchrss.cn/assets/vi-BsN4yQMQ.js"
   ],
   "locales/zh-CN.yml": [
-    "/assets/zh-CN-CME5MBO5.js"
+    "/watchrss.cn/assets/zh-CN-CME5MBO5.js"
   ],
   "node_modules/.pnpm/@emotion+hash@0.8.0/node_modules/@emotion/hash/dist/hash.browser.esm.js": [],
   "node_modules/.pnpm/@intlify+core-base@9.13.1/node_modules/@intlify/core-base/dist/core-base.mjs": [],
@@ -382,42 +382,42 @@
   "node_modules/.pnpm/vue-i18n@9.13.1_vue@3.4.27_typescript@5.4.5_/node_modules/vue-i18n/dist/vue-i18n.runtime.mjs": [],
   "node_modules/.pnpm/vue-router@4.3.2_vue@3.4.27_typescript@5.4.5_/node_modules/vue-router/dist/vue-router.mjs": [],
   "node_modules/.pnpm/workbox-window@7.0.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/workbox-window.prod.es5-B_6ZJHoI.js"
+    "/watchrss.cn/assets/workbox-window.prod.es5-B_6ZJHoI.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/assets/browser-logo.jpeg": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/assets/favicon.png": [
-    "/assets/Default-BMEnnQPd.js",
-    "/assets/favicon-C5idZDyM.png"
+    "/watchrss.cn/assets/Default-DQQuqCD_.js",
+    "/watchrss.cn/assets/favicon-C5idZDyM.png"
   ],
   "src/components/GradientBackground.vue": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/components/ImageBackground.vue?vue&type=style&index=0&scoped=52cc8c2d&lang.less": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/composables/dark.ts": [],
   "src/layouts/Default.vue": [
-    "/assets/Default-BMEnnQPd.js",
-    "/assets/favicon-C5idZDyM.png"
+    "/watchrss.cn/assets/Default-DQQuqCD_.js",
+    "/watchrss.cn/assets/favicon-C5idZDyM.png"
   ],
   "src/main.ts": [],
   "src/modules/i18n.ts": [],
@@ -425,14 +425,14 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/index.vue": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-bDOG7WzU.js",
-    "/assets/index-Lw95F0Gi.css",
-    "/assets/browser-logo-oWCqS9t5.jpeg"
+    "/watchrss.cn/assets/index-D7WR5cZg.js",
+    "/watchrss.cn/assets/index-Lw95F0Gi.css",
+    "/watchrss.cn/assets/browser-logo-oWCqS9t5.jpeg"
   ],
   "src/styles/main.css": [],
   "virtual:vue-router/auto-routes": []
