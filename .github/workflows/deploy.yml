@@ -16,7 +16,7 @@ jobs:
           node-version: 20.x
       - run: node -v
       - run: npm i -g pnpm && pnpm install
-      - run: pnpm run build --base=./
+      - run: pnpm run build --base=./watchrss.cn
       - name: Deploy # 部署
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
