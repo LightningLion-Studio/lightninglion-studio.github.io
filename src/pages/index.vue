@@ -50,6 +50,8 @@ const meowFeatures = [
     icon: 'i-ph-log-duotone',
   },
 ]
+
+const open = (url: string) => window.open(url)
 </script>
 
 <template>
@@ -154,7 +156,10 @@ const meowFeatures = [
           </dl>
         </div>
         <div mb24 mt12 flex justify-center sm:mt24>
-          <button class="rounded-md bg-pink-600 px-7.5 py-3.5 text-sm text-size-4.5 text-white font-semibold shadow-sm hover:bg-pink-500 focus-visible:outline-2 focus-visible:outline-pink-600 focus-visible:outline-offset-2 focus-visible:outline">
+          <button
+            class="rounded-md bg-pink-600 px-7.5 py-3.5 text-sm text-size-4.5 text-white font-semibold shadow-sm hover:bg-pink-500 focus-visible:outline-2 focus-visible:outline-pink-600 focus-visible:outline-offset-2 focus-visible:outline"
+            @click="open('https://github.com/Darock-Studio/Darock-Bili')"
+          >
             立即下载
           </button>
         </div>
