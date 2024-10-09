@@ -8,7 +8,7 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-DpqxzrVg.js"
+    "/assets/virtual_pwa-register-DPg95yBU.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -386,7 +386,7 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/assets/browser-logo.jpeg": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -399,11 +399,11 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/favicon.png": [
-    "/assets/Default-DRRb4I-p.js",
+    "/assets/Default-PxaQvwo-.js",
     "/assets/favicon-C5idZDyM.png"
   ],
   "src/assets/喵哩喵哩.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -416,7 +416,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/悦音音乐.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -429,7 +429,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上B站.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -442,7 +442,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上小助手.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -455,7 +455,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上小说.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -468,7 +468,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上樱花.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -481,7 +481,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上资讯.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -494,7 +494,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/assets/腕上音乐.png": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -507,7 +507,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/AppInfoFooter.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -520,7 +520,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/BrandItem.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -533,7 +533,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/FeatureSection.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -546,7 +546,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/GradientBackground.vue": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -559,7 +559,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -572,7 +572,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -585,7 +585,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/components/ImageBackground.vue?vue&type=style&index=0&scoped=52cc8c2d&lang.less": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -599,7 +599,7 @@
   ],
   "src/composables/dark.ts": [],
   "src/layouts/Default.vue": [
-    "/assets/Default-DRRb4I-p.js",
+    "/assets/Default-PxaQvwo-.js",
     "/assets/favicon-C5idZDyM.png"
   ],
   "src/main.ts": [],
@@ -608,7 +608,7 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/index.vue": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
@@ -621,7 +621,7 @@
     "/assets/喵哩喵哩-DLOW99wO.png"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.tsx": [
-    "/assets/index-BL8mK7I3.js",
+    "/assets/index-FvKOFL-u.js",
     "/assets/index-Lw95F0Gi.css",
     "/assets/腕上B站-BPXWU5U8.png",
     "/assets/腕上音乐-BUdLHeyu.png",
